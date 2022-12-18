@@ -1,0 +1,18 @@
+
+ ===== 2022.12.18 =====
+
+ + Topic, Big Data in Data Science
+
+ + Author, 郭俊良 博士
+
+ + 巨量資料Big Data
+
+ 	- 4V, 大量 Volume, 快速 Velocity, 多樣 Variety, 真實 Veracity
+	
+	- e.g. BI, IoT. SCM
+
+	- Transactions + Interactions + Obersavtions
+
+ + 資料科學 Data Science 
+
+	- 
